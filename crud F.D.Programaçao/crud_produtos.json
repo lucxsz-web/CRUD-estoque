@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "nome": "agua",
+        "quantidade": 1,
+        "valor": 1.5
+    },
+    {
+        "id": "123",
+        "nome": "sal",
+        "quantidade": 1,
+        "valor": 5.0
+    },
+    {
+        "id": "1212",
+        "nome": "Água 500ml",
+        "quantidade": 200,
+        "valor": 140.0
+    }
+]
